@@ -17,3 +17,4 @@ const divs = document.querySelectorAll('div');
   }, {
     once: true
   });
+  
